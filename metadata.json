@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft AI Player Controller",
+  "description": "Connects an AI bot to a Minecraft server and controls it using Gemini through MCP-like tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
