@@ -1,6 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="Minecraft IA Player Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-
 # 🎮 Minecraft IA Player
 
 **Un jugador autónomo con IA que juega Minecraft de forma inteligente y colaborativa**
